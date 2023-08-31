@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import Web3 from 'web3';
-import { abi } from '../web3config';
 
 const web3 = new Web3(
   'https://goerli.infura.io/v3/318af53be76b4bc39a0b3e9f97830a26'
